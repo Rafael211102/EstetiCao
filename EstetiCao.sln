@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstetiCao", "EstetiCao.csproj", "{8D949FAE-36B0-4EAE-9D7E-E5A3871A5B84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D949FAE-36B0-4EAE-9D7E-E5A3871A5B84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D949FAE-36B0-4EAE-9D7E-E5A3871A5B84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D949FAE-36B0-4EAE-9D7E-E5A3871A5B84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D949FAE-36B0-4EAE-9D7E-E5A3871A5B84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF289896-1F4D-45D4-8D84-30115FE90086}
+	EndGlobalSection
+EndGlobal
