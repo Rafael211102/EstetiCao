@@ -1,5 +1,0 @@
-C:\Users\rafael.rssouza\OneDrive - SENAC - SP\EstetiCao\obj\Debug\net8.0\EstetiCao.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\rafael.rssouza\OneDrive - SENAC - SP\EstetiCao\obj\Debug\net8.0\EstetiCao.AssemblyInfoInputs.cache
-C:\Users\rafael.rssouza\OneDrive - SENAC - SP\EstetiCao\obj\Debug\net8.0\EstetiCao.AssemblyInfo.cs
-C:\Users\rafael.rssouza\OneDrive - SENAC - SP\EstetiCao\obj\Debug\net8.0\EstetiCao.csproj.CoreCompileInputs.cache
-C:\Users\rafael.rssouza\OneDrive - SENAC - SP\EstetiCao\obj\Debug\net8.0\EstetiCao.sourcelink.json
