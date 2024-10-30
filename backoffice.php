@@ -22,7 +22,7 @@
                     <a href="#"><img src="icons/instagram.png" style="height: 25px; width: 25px;" alt="instagram"></a>
                     <a href="login.php"><img src="icons/login-do-usuario.png" style="height: 25px; width: 25px;"
                             alt="Login"></a>
-                    <a href="servicos.php"><input class="btn-agendar" type="button" value="AGENDAR"></a>
+                    <a href="login.php"><input class="btn-agendar" type="button" value="AGENDAR"></a>
                 </div>
         </nav>
 
@@ -38,7 +38,7 @@
                     <br>
                     <p>Serviços profissionais e cuidadosos para cães em Serrana </p>
 
-                    <a href="agenda.html"><input class="btn-agendar" type="submit" value="AGENDAR"></a>
+                    <a href="login.php"><input class="btn-agendar" type="submit" value="AGENDAR"></a>
 
                 </div>
             </div>
@@ -84,7 +84,7 @@
             </div>
 
             <div class="btn">
-                <a href="agenda.html"><input class="btn-agendar" type="button" value="AGENDAR"></a>
+                <a href="login.php"><input class="btn-agendar" type="button" value="AGENDAR"></a>
             </div>
         </section>
 

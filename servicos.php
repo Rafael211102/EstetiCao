@@ -31,7 +31,7 @@
                 </div>
 
                 <div class="btn">
-                    <a href="agenda.php"><input class="btn-agendar" type="submit" value="AGENDAR"></a>
+                    <a href="data.php"><input class="btn-agendar" type="submit" value="AGENDAR"></a>
                 </div>
             </div>
             <!--  -->
@@ -49,7 +49,7 @@
                 </div>
 
                 <div class="btn">
-                    <a href="agenda.php"><input class="btn-agendar" type="submit" value="AGENDAR"></a>
+                    <a href="data.php"><input class="btn-agendar" type="submit" value="AGENDAR"></a>
                 </div>
             </div>
             <!--  -->
@@ -67,7 +67,7 @@
                 </div>
 
                 <div class="btn">
-                    <a href="agenda.php"><input class="btn-agendar" type="submit" value="AGENDAR"></a>
+                    <a href="data.php"><input class="btn-agendar" type="submit" value="AGENDAR"></a>
                 </div>
             </div>
             <!--  -->
@@ -85,7 +85,7 @@
                 </div>
 
                 <div class="btn">
-                    <a href="agenda.php"><input class="btn-agendar" type="submit" value="AGENDAR"></a>
+                    <a href="data.php"><input class="btn-agendar" type="submit" value="AGENDAR"></a>
                 </div>
             </div>
             

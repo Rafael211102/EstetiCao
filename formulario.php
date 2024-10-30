@@ -12,7 +12,7 @@ if($_SERVER['REQUEST_METHOD']== 'POST'){
     $endereco = $_POST['endereco'];
 
     // VALIDA SE O USUARIO CADASTRAR EXISTE
-    $sql ="SELECT COUNT(usu_id)FROM tb_clientes WHERE usu_nome = '$nome' OR usu_email = '$email'";
+    $sql ="SELECT COUNT(cli_id)FROM tb_clientes WHERE cli_nome = '$nome' OR cli_email = '$email'";
 
 
 // RETORNO DO BANCO
@@ -21,7 +21,7 @@ $contagem = mysqli_fetch_array($retorno) [0];
 
 // VERIFICA SE USUARIO EXISTE
 if($contagem == 0){
-    $sql = "INSERT INTO tb_clientes(usu_nome, usu_email, usu_telefone, usu_genero, usu_nasc, usu_cidade, usu_estado, usu_endereco) VALUES('$nome', '$email', '$telefone', '$genero', '$data_nasc' , '$cidade', '$estado', '$endereco')";
+    $sql = "INSERT INTO tb_clientes(cli_nome, cli_email, cli_telefone, cli_genero, cli_nasc, cli_cidade, cli_estado, cli_endereco) VALUES('$nome', '$email', '$telefone', '$genero', '$data_nasc' , '$cidade', '$estado', '$endereco')";
     mysqli_query($link, $sql);
     echo"<script>window.alert('USARIO CADASTRADO COM SUCESSO');</script>";
     echo"<script>window.location.href='servicos.php';</script>";
