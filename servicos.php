@@ -1,3 +1,8 @@
+<?php
+session_start();
+?>
+
+
 <!DOCTYPE html>
 <html lang="pt-br">
 
@@ -31,7 +36,7 @@
                 </div>
 
                 <div class="btn">
-                    <a href="data.php"><input class="btn-agendar" type="submit" value="AGENDAR"></a>
+                    <a href="agendamento.php"><input class="btn-agendar" type="submit" value="AGENDAR"></a>
                 </div>
             </div>
             <!--  -->
@@ -49,7 +54,7 @@
                 </div>
 
                 <div class="btn">
-                    <a href="data.php"><input class="btn-agendar" type="submit" value="AGENDAR"></a>
+                    <a href="agendamento.php"><input class="btn-agendar" type="submit" value="AGENDAR"></a>
                 </div>
             </div>
             <!--  -->
@@ -67,7 +72,7 @@
                 </div>
 
                 <div class="btn">
-                    <a href="data.php"><input class="btn-agendar" type="submit" value="AGENDAR"></a>
+                    <a href="agendamento.php"><input class="btn-agendar" type="submit" value="AGENDAR"></a>
                 </div>
             </div>
             <!--  -->
@@ -85,7 +90,7 @@
                 </div>
 
                 <div class="btn">
-                    <a href="data.php"><input class="btn-agendar" type="submit" value="AGENDAR"></a>
+                    <a href="agendamento.php"><input class="btn-agendar" type="submit" value="AGENDAR"></a>
                 </div>
             </div>
             

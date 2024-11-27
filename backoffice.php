@@ -119,9 +119,7 @@
             </div>
 
             <div>
-                <h2>esteticao_souza_</h2>
-                <br>
-                <p>10 publicações</p>
+               
             </div>
 
             <div class="container">
